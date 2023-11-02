@@ -1,11 +1,4 @@
 ##########################################################################################
-## --------------------------------------- README ---------------------------------------
-# 1. Follow the instructions to install fdroidcl: https://github.com/mvdan/fdroidcl
-# 2. Add some additional F-Droid repositories, like using mine > ./fdroidRepo.ps1
-# 3. On your Android device: Enable "Developer options" > "USB Debugging"
-# 4. Connect your Android device through a USB cable
-# 5. Execute my PS script from PowerShell 7 > ./InstallApps.ps1 ./fdroidApps.txt
-# 
 ## ------------------------------------- The Syntax -------------------------------------
 # * Lines that are empty or start with # are skipped from evaluation 
 # * Lines that describe apps that must be installed start with the package name
