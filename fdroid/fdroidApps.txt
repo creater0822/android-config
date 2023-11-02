@@ -1,0 +1,133 @@
+##########################################################################################
+## --------------------------------------- README ---------------------------------------
+# 1. Follow the instructions to install fdroidcl: https://github.com/mvdan/fdroidcl
+# 2. Add some additional F-Droid repositories, like using mine > ./fdroidRepo.ps1
+# 3. On your Android device: Enable "Developer options" > "USB Debugging"
+# 4. Connect your Android device through a USB cable
+# 5. Execute my PS script from PowerShell 7 > ./InstallApps.ps1 ./fdroidApps.txt
+# 
+## ------------------------------------- The Syntax -------------------------------------
+# * Lines that are empty or start with # are skipped from evaluation 
+# * Lines that describe apps that must be installed start with the package name
+# * Directly adding ; after a package name allows comments (namely for the app name) 
+##########################################################################################
+
+## -- Phone apps --
+at.bitfire.nophonespam; NoPhoneSpam
+com.crossbowffs.nekosms; Neko SMS (Text-pattern based SMS blocker requiring Xposed, IzzyOnDroid Repo)
+com.moez.QKSMS; QKSMS (best SMS app)
+com.simplemobiletools.dialer; Simple dialer
+de.ritscher.simplemobiletools.contacts.pro; Simple Contacts Pro SE (supports separate address fields)
+
+## -- Calendar, mail and maps --
+at.bitfire.davdroid; DavX5 (CalDAV/CardDAV Synchronisation and Client)
+com.fsck.k9; K-9 Mail (E-mail client)
+net.osmand.plus; OSMAnd~ (Open Street Maps)
+ws.xsoh.etar; Etar (Best calendar app)
+
+## -- Security --
+com.beemdevelopment.aegis; Aegis (open source Authenticator)
+com.kunzisoft.keepass.free; KeePassDX (Password manager, IzzyOnDroid Repo)
+dev.ukanth.ufirewall; AFWall+ (Host-based per-app Firewall control)
+org.adaway; Adaway (Hosts-based Ad-blocker)
+
+## -- Internet --
+com.trianguloy.urlchecker; URLCheck
+org.matrix.chromextd; ChromeXt (UserScripts and Dev Tools support for Chromium- and Webview-based browsers, IzzyOnDroid Repo)
+org.mozilla.fennec_fdroid; Fennec F-Droid (Firefox-based browser that supports about:config)
+
+## -- Primitive phone utilities --
+com.github.andremiras.qrscan; QRCode & Barcode scanner
+com.saggitt.omega; Neo Launcher (Still not as good as Nova Launcher but free)
+com.simplemobiletools.clock; Simple clocks
+com.simplemobiletools.voicerecorder; Simple Voice Recorder
+de.rwth_aachen.phyphox; phyphox (Phone sensor utilities)
+net.sourceforge.opencamera; OpenCamera (Best camera app)
+yetzio.yetcalc; YetCalc (Calculator with sufficient basic features)
+
+## -- System UI & hardware related --
+com.f0x1d.logfox; LogFox (Best LogCat reader for Android)
+com.google.android.diskusage; DiskUsage (visualize disk space)
+com.machiav3lli.backup; Neo Backup (better than Titanium Backup)
+dev.patrickgold.florisboard; FlorisBoard (Best Android keyboard)
+eu.darken.sdmse; SD Maid SE (Best Android garbage collection tool, IzzyOnDroid Repo)
+io.github.muntashirakon.AppManager; App Manager - Android package manager (Too many features to name)
+mattecarra.accapp; Advanced Charging Controller (ACCA)
+
+## -- Documents --
+com.artifex.mupdf.viewer.app; MuPDF Viewer (Lightweight PDF viewer)
+com.collabora.libreoffice; Collabora Office (open source office)
+com.foobnix.pro.pdf.reader; Librera Reader (Book and PDF reader)
+net.gsantner.markor; Markor (Text editor with Markdown support)
+
+## -- Media player: Audio, picture, video --
+code.name.monkey.retromusic; Retro Music (Best Android music player)
+com.simplemobiletools.gallery.pro; Simple Gallery Pro
+de.kaffeemitkoffein.imagepipe; Imagepipe (removes exif data and modifies images to reduce size)
+org.videolan.vlc; VLC (Video player)
+ru.tech.imageresizershrinker; Image Toolbox (Resizer)
+
+## -- Termux: Terminal Emulator --
+com.termux.api; Termux API
+com.termux.boot; Termux Boot
+com.termux.styling; Termux Styling
+com.termux.tasker; Termux Tasker
+com.termux.window; Termux Window
+com.termux; Termux (best Terminal Emulator)
+
+## -- Repository --
+com.aurora.store; Aurora Store (Play Store alternative client)
+com.sanmer.mrepo; MRepo (Magisk module manager, IzzyOnDroid Repo)
+io.github.pd4d10.gittouch; Gittouch (Client for GitHub, GitLab, Bitbucket, Gitea, and Gitee)
+
+## -- Games --
+com.alaskalinuxuser.justchess; JustChess (For single or dual player)
+com.dozingcatsoftware.cardswithcats; Cards With Cats (Hearts game)
+de.mwvb.blockpuzzle; Block Puzzle Stone Wars (Tetris)
+de.tobiasbielefeld.solitaire; Simple Solitaire Collection
+dev.lucanlm.antimine; Minesweeper - Antimine (Best minesweeper game)
+org.secuso.privacyfriendlydame; Checkers (Privacy Friendly)
+
+## -- Network related --
+com.aaronjwood.portauthority.free; Port Authority
+com.vrem.wifianalyzer; Wifi Analyzer (Checking signal strength)
+org.connectbot; Connectbot (SSH and Local Shell Client)
+
+## -- Internet services --
+InfinityLoop1309.NewPipeEnhanced; PipePipe (Fork of alternative Youtube client)
+com.openstablediffusion; Open Stable Diffusion (generating images using stable diffusion.)
+com.simplytranslate_mobile; SimplyTranslate Mobile (alternate frontend Google Translate)
+io.github.yamin8000.owl; freeDictionaryApp (English dictionary app through Owl network, IzzyOnDroid Repo)
+org.wikipedia; Wikipedia (Better to manage from F-Droid than Play Store)
+org.y20k.transistor; Transistor (Internet radio app)
+wangdaye.com.geometricweather; Geometric Weather (Better than Accuweather)
+
+## -- Information --
+com.inspiredandroid.linuxcommandbibliotheca; Linux Command Library
+com.ultramegatech.ey; Elementary: Periodic Table
+org.ligi.survivalmanual; Survival Manual
+
+##########################################################################################
+## -- Good apps that you may want to install --
+# chat.simplex.app; SimpleX Chat (Most private messaging solution)
+# com.amaze.filemanager; Amaze (Open Source file manager if not trusting MiX)
+# com.perflyst.twire; Twire (Open source Twitch client)
+# com.redirectapps.tvkill; TV Kill (turn off tv)
+# com.vlad805.fmradio; RFM Radio (Radio app, IzzyOnDroid Repo)
+# com.yubico.yubioath; Yubico Authenticator (Generate OATH codes with YubiKey NEO over NFC)
+# de.nulide.findmydevice; Find My Device (FMD)
+# im.molly.app; Molly Foss (Hardened Signal Fork, Molly Foss Repo)
+# org.proninyaroslav.libretorrent; LibreTorrent
+# org.quantumbadger.redreader; RedReader (Reddit client)
+# org.xbmc.kore; Kore (Official Kodi remote)
+# ua.com.radiokot.photoprism; Gallery for PhotoPrism (Photo sharing front-end)
+# us.spotco.extirpater; Extirpater (A free space eraser)
+# us.spotco.fennec_dos; Mull (Arkenfox-hardened Firefox, might break some websites)
+# us.spotco.malwarescanner; Hypatia (A real-time malware scanner)
+
+## -- DON'T BOTHER USING --
+# com.dp.logcatapp; Logcat Reader (Not as good as LogFox)
+# com.simplemobiletools.keyboard; Simple Keyboard (Inferior to FlorisBoard)
+# com.smartpack.packagemanager; Package Manager (Inferior to App Manager)
+# org.eu.exodus_privacy.exodusprivacy; Exodus (Redundant with App Manager)
+# org.pocketworkstation.pckeyboard; Hacker's Keyboard (Inferior to FlorisBoard)
