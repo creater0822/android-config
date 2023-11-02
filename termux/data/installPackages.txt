@@ -1,0 +1,80 @@
+aapt2 - Android Asset Packaging Tool
+ack-grep - Tool like grep, optimized for programmers
+android-tools - Android platform tools
+aria2 - Multi-protocol & multi-source command-line download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink       asciinema - Record and share your terminal sessions, the right way
+bash - A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
+bash-completion - Programmable completion for the bash shell
+bc - Arbitrary precision numeric processing language
+bsdtar - The tar(1) and cpio(1) programs from FreeBSD, using libarchive
+busybox - Tiny versions of many common UNIX utilities into a single small executable
+bzip2 - Tools for working with bzip2 compression
+clang - C language frontend for LLVM
+command-not-found - Suggest installation of packages in interactive shell sessions
+curl - Command line tool for transferring data with URL syntax
+dialog - Application used in shell scripts which displays text user interface widgets
+diffutils - Programs (cmd, diff, diff3 and sdiff) related to finding differences between files
+dnslookup - Simple tool to make DNS lookups
+dnsutils - Clients provided with BIND
+doxygen - A documentation system
+eigen - C++ template for linear algebra
+exiftool - Utility for reading, writing and editing meta information in a wide variety of files
+fastfetch - A neofetch-like tool
+fdroidcl - F-Droid Client
+ffmpeg - Tool and libraries to manipulate a wide range of multimedia formats and protocols
+file - Command-line tool that tells you in words what kind of data a file contains
+flac - FLAC (Free Lossless Audio Codec) command-line tool
+frotz - Interpreter for Infocom and other Z-machine interactive fiction (IF) games
+fsmon - Filesystem monitor with fanotify and inotify backends
+gap - A system for computational discrete algebra
+gdb - Standard GNU Debugger
+git - Version control system
+golang - Go programming language
+grep - Command which searches one or more input files for lines containing a match to a specified pattern
+gzip - Standard GNU file compression utilities
+htop - Interactive process viewer for Linux
+httrack - Allows you to download a World Wide Web site from the Internet
+inetutils - Collection of common network programs
+ipcalc - Calculates IP broadcast, network, Cisco wildcard mask and host ranges
+less - Terminal pager program used to view the contents of a text file one screen at a time
+lftp - FTP/HTTP client and file transfer program
+linux-man-pages - Man pages for linux kernel and C library interfaces
+lua54 - Simple, extensible, embeddable programming language
+luajit - Just-In-Time compiler for Lua
+lynx - The text web browser
+man - Man page viewer from the mandoc toolset
+matplotlib - Interactive visualization library in Python
+maxima - Computer algebra system
+mc - Midnight Commander - a powerful file manager
+mediainfo - Command line utility for reading information from media files
+megacmd - Provides non-UI access to MEGA services
+mutt - Mail client
+neofetch - Simple system information script
+neomutt - A version of the mail client Mutt with added features
+neovim - Ambitious Vim-fork focused on extensibility and agility (nvim)
+nmap - Utility for network discovery and security auditing
+nudoku - ncurses based Sudoku
+openjdk-17 - Java Development kit and runtime
+openssh - Secure shell for logging into a remote machine
+openssl-tool - The openssl command line cryptographic tool
+p7zip - Command-line version of the 7zip compressed file archiver
+perl - Capable, feature-rich programming language
+pwgen - Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords
+python - Python 3 programming language
+python-numpy - The fundamental package for scientific computing with Python
+ranger - File manager with VI key bindings
+rsync - Utility that provides fast incremental file transfer
+rust - Systems programming language focussed on safety, speed and concurrency
+sed - GNU stream text editor
+stunnel - Socket wrapper which can provide TLS support to ordinary applications
+tar - GNU tar for manipulating tar archives
+termux-api - Termux API commands
+termux-tools - Some tools for Termux
+termux-tools - Some tools for Termux
+unrar - Tool for extracting files from .rar archives
+unzip - Tools for working with zip files
+vim - Vi IMproved - enhanced vi editor
+w3m - Text based Web browser and pager
+wcalc - Capable calculator
+wget - Commandline tool for retrieving files using HTTP, HTTPS and FTP
+zip - Tools for working with zip files
+zsh - Shell designed for interactive use, although it is also a powerful scripting language
