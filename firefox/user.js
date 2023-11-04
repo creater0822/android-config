@@ -496,7 +496,7 @@ user_pref("browser.xul.error_pages.expert_bad_cert", true);
 //
 // Control the amount of cross-origin information to send [FF52+]
 // 0=send full URI (default), 1=scheme+host+port+path, 2=scheme+host+port
-user_pref("network.http.referer.XOriginTrimmingPolicy", 2);
+user_pref("network.http.referer.XOriginTrimmingPolicy", 0); // <- Cyfire edit
 //
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 // CONTAINERS

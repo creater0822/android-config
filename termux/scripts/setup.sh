@@ -2,12 +2,12 @@
 
 echo "This script sets up the Termux App."
 
-masterzip_url="https://github.com/creater0822/android-config/archive/master.zip"
-masterzip_file="$HOME/tmp/android-config-master.zip"
-masterzip_dir="$HOME/tmp/android-config"
-master_dir="$masterzip_dir/termux-config-master"
+# masterzip_url="https://github.com/creater0822/android-config/archive/master.zip"
+# masterzip_file="$HOME/tmp/android-config-master.zip"
+# masterzip_dir="$HOME/tmp/termux-config"
+# master_dir="$masterzip_dir/termux-config-master"
 
-package_file="$master_dir/data/packages.txt"
+# package_file="$master_dir/data/packages.txt"
 
 mkdir -p "$HOME/tmp" "$HOME/bin"
 

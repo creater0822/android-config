@@ -69,7 +69,7 @@ case "$TERM" in
   *) ;;
 esac
 
-# Lade die Shell unabhaengige Shell Aliases Datei
+# Load the shell independent shell aliases file
 [[ -r ~/.sh_aliases ]] && . ~/.sh_aliases
 
 # Alias definitions.
