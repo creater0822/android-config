@@ -25,6 +25,7 @@ dev.ukanth.ufirewall; AFWall+ (Host-based per-app Firewall control)
 org.adaway; Adaway (Hosts-based Ad-blocker)
 
 ## -- Internet --
+ch.protonvpn.android; ProtonVPN (The free plan is perfect for Wifi hotspots)
 com.trianguloy.urlchecker; URLCheck
 org.matrix.chromextd; ChromeXt (UserScripts and Dev Tools support for Chromium- and Webview-based browsers, IzzyOnDroid Repo)
 org.mozilla.fennec_fdroid; Fennec F-Droid (Firefox-based browser that supports about:config)
