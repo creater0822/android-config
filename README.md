@@ -20,7 +20,7 @@ To make our life of ROM and/or just general phone switching easy, this simple Po
 - Nobody got time to manually operate a tiny phone screen to search & install over 60 apps.
 - Simple app overview: Makes sharing your list of apps as easy as sharing a text file.
 
-## Mobile Firefox config
+## Mobile Firefox
 1. Install [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) or [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 2. On a file explorer with root access, navigate to... 
    - **Fennec F-Droid** - `data/data/org.mozilla.fennec_froid/files/mozilla/[xxxxxxx].default`
