@@ -30,5 +30,5 @@ To make our life of ROM and/or just general phone switching easy, this simple Po
 5. Back to settings, under Advanced, Custom Add-on collection:
    - Collection owner (User ID) = **10938336**
    - Collection name = **mconfig**
-6. Install your favorite Add-ons from [my list](https://addons.mozilla.org/en-US/firefox/collections/10938336/Mobile-config/). And if it's not there, that means you don't need it.
+6. Install your favorite Add-ons from [my list](https://addons.mozilla.org/en-US/firefox/collections/10938336/mconfig/). And if it's not there, that means you don't need it.
 
